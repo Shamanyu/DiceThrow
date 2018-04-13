@@ -1,0 +1,5 @@
+1) Install create-react-native-app globally
+    a) npm install -g create-react-native-app
+
+2) Create project
+    a) create-react-native-app DiceThrow
